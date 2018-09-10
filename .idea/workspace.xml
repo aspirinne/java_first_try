@@ -250,7 +250,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="first_try" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536609314219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536609830259" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/system" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -312,7 +312,7 @@
       <workItem from="1536351578463" duration="729000" />
       <workItem from="1536416215076" duration="4000" />
       <workItem from="1536515666256" duration="412000" />
-      <workItem from="1536516768630" duration="6091000" />
+      <workItem from="1536516768630" duration="6362000" />
     </task>
     <task id="LOCAL-00001" summary="dependencies">
       <created>1536607211075</created>
@@ -349,11 +349,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536609263391</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="controller">
+      <created>1536609543092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536609543092</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7236000" />
+    <option name="totallyTimeSpent" value="7507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
